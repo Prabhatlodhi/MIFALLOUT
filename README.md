@@ -1,3 +1,3 @@
 # mifallout
 
-Click here - https://prabhatlodhi.github.io/MIFALLOUT/
+Click here - https://prabhatlodhi.github.io/mifallout/
